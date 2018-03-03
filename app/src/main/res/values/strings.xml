@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <!--TODO INSERT API KEY BELLOW-->
+    <string name="api_key"></string>
+    <string name="api_key_pre">&amp;api_key=</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_base_url">https://api.themoviedb.org/3/movie/</string>
+    <string name="api_popular_url">popular</string>
+    <string name="api_top_rated_url">top_rated</string>
+    <string name="api_videos_url">/videos?</string>
+    <string name="api_reviews_url">/reviews?</string>
+    <string name="api_page">\?page=</string>
+    <string name="api_image_base_url">https://image.tmdb.org/t/p/</string>
+    <string name="api_image_w185_url">w185/</string>
+    <string name="api_image_w780_url">w780/</string>
+    <string name="youtube_base_url">https://www.youtube.com/watch?v=</string>
+    <string name="youtube_thumbnail_base_url">https://img.youtube.com/vi/</string>
+    <string name="youtube_thumbnail_end_url">/0.jpg</string>
+
+    <string name="label_sort">Sort</string>
+    <string name="label_movie_poster">Movie poster</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="label_popular">Popular</string>
+    <string name="label_top_rated">Top rated</string>
+    <string name="label_no_internet">Internet connection not available</string>
+    <string name="label_movie_backdrop">Movie backdrop</string>
+    <string name="label_open_with">Open with</string>
+    <string name="label_reviews">Reviews</string>
+    <string name="trailers_label">Trailers</string>
+    <string name="overview_label">Overview</string>
+    <string name="play_button">Play button</string>
+    <string name="label_favorites">Favorites</string>
+    <string name="label_release_date">Release date</string>
+    <string name="label_origen_language">Origen language</string>
+    <string name="label_removed_from_favorites">Removed from favorites</string>
+    <string name="label_added_to_favorites">Added to favorites</string>
+</resources>

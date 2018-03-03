@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D32F2F</color>
+    <color name="colorPrimaryDark">#B71C1C</color>
+    <color name="colorAccent">#D32F2F</color>
+
+    <color name="md_black_1000_50">#80000000</color>
+    <color name="md_black_1000_75">#ac000000</color>
+
+    <color name="md_text">#df000000</color>
+    <color name="md_text_white_87">#dfffffff</color>
+    <color name="md_secondary_text_icons_white">#b3ffffff</color>
+
+</resources>
