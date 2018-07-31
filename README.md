@@ -1,1 +1,3 @@
-[![PopularMoviesStage2](https://github.com/JavierSegoviaCordoba/PopularMoviesStage2/blob/master/PopularMovies2.png)](http://www.youtube.com/watch?v=kZdV3nmdtsM "PopularMoviesStage2")
+Click the image to view the video:
+
+[![PopularMoviesStage2](https://github.com/JavierSegoviaCordoba/PopularMoviesStage2/blob/master/PopularMovies2.png = 400x)](http://www.youtube.com/watch?v=kZdV3nmdtsM "PopularMoviesStage2")
