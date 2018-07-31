@@ -66,8 +66,12 @@
 
                 <TextView
                     android:id="@+id/textViewTitle"
-                    android:layout_width="wrap_content"
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:layout_marginEnd="16dp"
+                    android:layout_marginRight="16dp"
+                    android:ellipsize="end"
+                    android:maxLines="1"
                     android:text="Name"
                     android:textAppearance="@style/TextAppearance.Widget.AppCompat.Toolbar.Title"
                     tools:ignore="HardcodedText" />
@@ -323,6 +327,7 @@
 
             <TextView
                 android:id="@+id/textViewReviewLabel"
+                style="@style/TextAppearance.AppCompat.Title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
@@ -334,7 +339,6 @@
                 android:paddingRight="@dimen/dimen_8"
                 android:text="@string/label_reviews"
                 android:textColor="@color/md_text"
-                style="@style/TextAppearance.AppCompat.Title"
                 android:visibility="visible" />
 
             <ImageView
